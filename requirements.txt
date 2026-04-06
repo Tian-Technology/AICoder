@@ -1,0 +1,4 @@
+requests
+sv-ttk
+tkhtmlview
+markdown
